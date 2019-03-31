@@ -1,0 +1,22 @@
+<DocumentElement>
+<Customer>
+<CustomerID>1</CustomerID>
+<CompanyName>Let's Stop N Shop</CompanyName>
+<City>Mumbai</City>
+</Customer>
+<Customer>
+<CustomerID>2</CustomerID>
+<CompanyName>Hungry Coyote Import Store</CompanyName>
+<City>Mumbai</City>
+</Customer>
+<Customer>
+<CustomerID>3</CustomerID>
+<CompanyName>John Steel</CompanyName>
+<City>Pune</City>
+</Customer>
+<Customer>
+<CustomerID>4</CustomerID>
+<CompanyName>Andy's Seasoning</CompanyName>
+<City>Delhi</City>
+</Customer>
+</DocumentElement>

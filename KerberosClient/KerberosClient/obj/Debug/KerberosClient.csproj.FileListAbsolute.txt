@@ -1,0 +1,10 @@
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\bin\Debug\KerberosClient.exe.config
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\bin\Debug\KerberosClient.exe
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\bin\Debug\KerberosClient.pdb
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\obj\Debug\KerberosClient.csprojAssemblyReference.cache
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\obj\Debug\KerberosClient.csproj.CoreCompileInputs.cache
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\obj\Debug\KerberosClient.exe
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\obj\Debug\KerberosClient.pdb
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\bin\Debug\IPDMCTRL.dll
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+C:\Users\agfirstclientuser\source\repos\KerberosClient\KerberosClient\obj\Debug\KerberosClient.csproj.CopyComplete
