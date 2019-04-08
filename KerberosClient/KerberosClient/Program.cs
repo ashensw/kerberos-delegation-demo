@@ -22,8 +22,8 @@ namespace KerberosClient
         static string tokenEndpoint = "http://apim.com:8280/token";
         static string apiURL = "http://apim.com:8280/demo/1.0.0/api/customer";
         static string apimSPN = "http/apim.com@WSO2.TEST";
-        static string username = "TcY6H40VdgwdGyV1haxwtS9zxT8a";
-        static string password = "2Fs1lm4hOZsPBe5ntyE50EfijkAa";
+        static string clientID = "TcY6H40VdgwdGyV1haxwtS9zxT8a";
+        static string clientSecret = "2Fs1lm4hOZsPBe5ntyE50EfijkAa";
 
         static void Main(string[] args)
         {
@@ -136,7 +136,7 @@ namespace KerberosClient
 
         static string getBasicAuthHeader()
         {
-            string authInfo = username + ":" + password;
+            string authInfo = clientID + ":" + clientSecret;
             authInfo = Convert.ToBase64String(Encoding.Default.GetBytes(authInfo));
             return "Basic " + authInfo;
         }
